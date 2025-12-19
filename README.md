@@ -49,9 +49,11 @@ This system allows sound sources to "hear" the geometry around them.
 </ul>
 <br>
 <a href="https://github.com/ibandurist/UnityFMOD.ProceduralAcoustics"><b>👉 View Repository</b></a>
+&nbsp; | &nbsp;
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7406981502863020032/" target="_blank"><b>📺 Watch Demo</b></a>
 </td>
 <td width="45%">
-    <img src="image/ProceduralAcoustics.png" alt="Console Engine" width="100%">
+    <img src="image/ProceduralAcoustics.png" alt="Procedural Acoustics Debug" width="100%">
 </td>
 </tr>
 </table>
@@ -77,6 +79,8 @@ Built from scratch to understand engine architecture beyond high-level wrappers.
 </ul>
 <br>
 <a href="https://github.com/ibandurist/TinyArcade.ConsoleGameEngine"><b>👉 View Repository</b></a>
+&nbsp; | &nbsp;
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7403704945683861504/" target="_blank"><b>📺 Watch Demo</b></a>
 </td>
 <td width="45%">
     <img src="image/ConsoleEngine.png" alt="Console Engine" width="100%">
