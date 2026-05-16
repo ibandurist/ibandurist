@@ -9,11 +9,8 @@
     <a href="https://www.linkedin.com/in/sound-designer-ivan/" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="mailto:gameaudioivan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
     <!-- Link to your new Interactive Portfolio -->
-    <a href="https://ibandurist.github.io/Web_Portfolio1/" target="_blank">
+    <a href="https://stepanov.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Interactive_CV-00f2fe?style=for-the-badge&logo=react" alt="Portfolio" />
     </a>
   </div>
